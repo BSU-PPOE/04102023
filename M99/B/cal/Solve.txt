@@ -1,0 +1,82 @@
+Plate-solve run at 6/16/2023 10:15:31 AM
+Use File/Save As to save this file
+
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\04102023\M99\B\cal\M99_04102023-0001_B_120s_cal.fit:
+ 172 image stars found.
+ 62 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 11 of max 500, RMS residual is 0.23 arcsec, order =1
+ Solution took 1.8 seconds
+ Centerpoint RA = 12h 18m 47.542s Dec = 14° 20' 21.91"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.46 HScale = 0.478 VScale = 0.477
+ PA = 267.457°
+ FWHM = 3.36 arcsec
+ ZeroPoint = 17.83 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\04102023\M99\B\cal\M99_04102023-0002_B_120s_cal.fit:
+ 190 image stars found.
+ 62 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 11 of max 500, RMS residual is 0.20 arcsec, order =1
+ Solution took 2.0 seconds
+ Centerpoint RA = 12h 18m 47.656s Dec = 14° 20' 20.28"
+ Pointing error 0.2 arc minutes
+ WCS: Roll = -87.37 HScale = 0.478 VScale = 0.479
+ PA = 267.373°
+ FWHM = 3.18 arcsec
+ ZeroPoint = 21.16 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\04102023\M99\B\cal\M99_04102023-0003_B_120s_cal.fit:
+ 181 image stars found.
+ 62 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Failed to solve plate, possibly due to input plate scale being too far off.
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\04102023\M99\B\cal\M99_04102023-0004_B_120s_cal.fit:
+ 196 image stars found.
+ 62 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Failed to solve plate, possibly due to input plate scale being too far off.
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\04102023\M99\B\cal\M99_04102023-0005_B_120s_cal.fit:
+ 202 image stars found.
+ 62 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Failed to solve plate, possibly due to input plate scale being too far off.
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\04102023\M99\B\cal\M99_04102023-0006_B_120s_cal.fit:
+ 194 image stars found.
+ 62 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 13 of max 500, RMS residual is 0.24 arcsec, order =1
+ Solution took 1.8 seconds
+ Centerpoint RA = 12h 18m 47.534s Dec = 14° 20' 21.97"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.45 HScale = 0.477 VScale = 0.477
+ PA = 267.448°
+ FWHM = 3.16 arcsec
+ ZeroPoint = 19.93 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\04102023\M99\B\cal\M99_04102023-0007_B_120s_cal.fit:
+ 185 image stars found.
+ 62 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 22 of max 500, RMS residual is 0.15 arcsec, order =2
+ Solution took 1.9 seconds
+ Centerpoint RA = 12h 18m 47.831s Dec = 14° 20' 14.02"
+ Pointing error 0.3 arc minutes
+ WCS: Roll = -87.26 HScale = 0.479 VScale = 0.477
+ PA = 267.256°
+ FWHM = 3.32 arcsec
+ ZeroPoint = 20.34 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\04102023\M99\B\cal\M99_04102023-0008_B_120s_cal.fit:
+ 150 image stars found.
+ 62 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Failed to solve plate, possibly due to input plate scale being too far off.
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\04102023\M99\B\cal\M99_04102023-0010_B_120s_cal.fit:
+ 187 image stars found.
+ 62 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Failed to solve plate, possibly due to input plate scale being too far off.
+
+4 solved, 5 failed.
