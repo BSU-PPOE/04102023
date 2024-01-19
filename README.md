@@ -1,13 +1,19 @@
 # 04102023
 
 Included folders:
+
  Darks
 
  Flats
+
  M53
+
  M99
+
  Darks 120s
+
  Darks 1s
+ 
  Flats B
  Flats L
  Flats R
